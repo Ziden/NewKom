@@ -1,0 +1,5 @@
+name: KoM
+main: devsBrsMarotos.NewKom
+version: 1.0
+softdepend: [SimpleClans,ProtocolLib,HologramAPI]
+commands:
